@@ -1,3 +1,3 @@
 # a c++ implementation of standard tsne
-reqire eigen  
+require eigen  
 jsonapp is able to be removed
